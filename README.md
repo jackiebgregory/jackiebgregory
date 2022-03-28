@@ -6,4 +6,4 @@
 
 :star: Currently reviewing some previous class projects and adding some additional features to my capstone project!
 
-https://www.linkedin.com/in/jacqueline-b-gregory/
+:paperclip: https://www.linkedin.com/in/jacqueline-b-gregory/
