@@ -6,4 +6,6 @@
 
 :star: Currently reviewing some previous class projects and adding some additional features to my capstone project!
 
+:blue_book: My capstone project is a book club organizing application - check out bookclub for the back end, and bookclub-client for the front end. Both are pinned below.
+
 :paperclip: https://www.linkedin.com/in/jacqueline-b-gregory/
